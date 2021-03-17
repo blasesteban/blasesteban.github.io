@@ -1,0 +1,9 @@
+button{
+    display: flex;
+    height: 20px;
+    width: 50px;
+}
+button:hover{
+    background-color: firebrick;
+    border: currentColor;
+}
