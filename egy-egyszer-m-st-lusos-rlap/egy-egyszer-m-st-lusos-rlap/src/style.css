@@ -1,0 +1,26 @@
+main{
+  font-family: arial;
+}
+label{
+  color: #66e660;
+  display: block;
+  padding:2px;
+}
+input{
+  border-radius: 10px;
+  border: 2px solid #66e660;
+  background: #d7f9d7;
+  width: 400px;
+  display: block;
+  padding:10px;
+}
+button{
+  border-radius: 10px;
+  border: 2px solid #66e660;
+  background: #66e660;
+  width: 400px;
+  display: block;
+  padding:10px;
+  margin: 20px 0px;
+  text-color: #2f482e
+}

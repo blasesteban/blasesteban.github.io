@@ -1,0 +1,14 @@
+a{
+  display: block;
+  font-family: 'Sen', sans-serif;
+  color: green
+}
+a:hover{
+  color: lime;
+  text-decoration: none;
+  background: #DDFFDD
+}
+a:visited{
+  color: #005500;
+  
+}

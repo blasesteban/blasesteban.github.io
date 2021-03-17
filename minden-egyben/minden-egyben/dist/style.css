@@ -1,0 +1,42 @@
+.bigbox {
+  width: 700px;
+  text-align: center;
+}
+header{
+  background: aqua;
+  display: flex;
+  height: 100px;
+}
+.mediumbox{
+  display: flex;
+  height: 500px;
+  flex-direction: row;
+  gap: 20px;
+}
+.orange{
+  background: orange;
+  width: 14%;
+}
+main{
+  background: red;
+  width: 72%;
+  position: relative;
+}
+button{
+  width: 40px;
+  height: 40px;
+  background: black;
+  border: 0;
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+}
+.purple{
+  background: purple;
+  width: 14%;
+}
+footer{
+  background: blue;
+  display: flex;
+  height: 100px;
+}

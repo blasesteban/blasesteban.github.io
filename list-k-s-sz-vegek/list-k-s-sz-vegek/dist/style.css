@@ -1,0 +1,21 @@
+main {
+  font-family:'century gothic'; 
+}
+h1 {
+  color: fuchsia;
+}
+h2{
+  color: purple;
+}
+ol {
+  list-style-type: upper-roman;
+  text-decoration: underline;
+}
+ul {
+  list-style-type: square;
+}
+.a {
+  color: fuchsia;
+  text-decoration: underline;
+  text-decoration-color: pink;
+}
