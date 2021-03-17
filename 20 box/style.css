@@ -1,0 +1,21 @@
+div{
+    display: flex;
+}
+.a {
+    height: 80px;
+    border:1px solid darkblue;
+    margin: 10px;
+    justify-items: center;
+    align-items: center;
+}
+.b{
+    height: 50px;
+    width: 50px;
+    background-color: darkblue;
+}
+.c{
+    margin: 15px;
+}
+.a:hover{
+    background-color: darkorange;
+}
