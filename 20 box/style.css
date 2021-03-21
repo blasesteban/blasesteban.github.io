@@ -2,8 +2,9 @@ div{
     display: flex;
 }
 .a {
-    height: 80px;
-    border:1px solid darkblue;
+    height: 78px;
+    width: 654px;
+    border:1px solid #4484f0;
     margin: 10px;
     justify-items: center;
     align-items: center;
@@ -11,11 +12,12 @@ div{
 .b{
     height: 50px;
     width: 50px;
-    background-color: darkblue;
+    margin: 7px;
+    background-color: #396cc480;
 }
 .c{
-    margin: 15px;
+    margin:7px;
 }
-.a:hover{
-    background-color: darkorange;
+.a:hover:hover{
+    background-color: #f36046;
 }
