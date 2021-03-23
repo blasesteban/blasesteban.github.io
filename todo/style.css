@@ -1,0 +1,32 @@
+main{
+    background-color: cornflowerblue;
+    display: flex;
+}
+#a{
+    min-width: 200px;
+    width: 40%;
+    height: 90%;
+    background-color: white;
+    margin: auto;
+    text-align: center;
+}
+#aa{
+
+}
+#ab{
+    border:2px solid grey;
+    padding: 0;
+}
+#aba{
+    border: 0;
+    padding: 0;
+    display: inline;
+    width: 80%;
+}
+#abb{
+    background: cornflowerblue;
+    border: 0;
+    padding: 0;
+    display: inline;
+    width: 20%;
+}
